@@ -1,2 +1,2 @@
 # spring-clinic
- SpringBoot Web Application Sample
+ SpringBoot MVC Web Application Sample
